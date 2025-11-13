@@ -1,4 +1,4 @@
-0# Dependências da Aula 4 - Controle de Qualidade
+# Dependências da Aula 4 - Controle de Qualidade
 
 # Framework Web
 fastapi==0.104.1
